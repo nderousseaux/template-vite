@@ -17,7 +17,6 @@ html {
 * {
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
 }
 
 
@@ -28,7 +27,7 @@ ul, li,
 table, form, label, input, textarea, select, button {
   border: 0;
   font: inherit;
-  //font-family: inherit;
+  font-family: inherit;
   font-size: 100%;
 }
 ul {
