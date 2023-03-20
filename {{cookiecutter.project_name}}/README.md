@@ -18,3 +18,9 @@ $ npm run preview
 # build
 $ npm run build
 ```
+
+
+## Deploying to GitHub Pages
+
+Once you have commit on main branch, the app will be deployed to GitHub Pages automatically.
+The app will be available at https://projects-front-end.gitlab.io/{{cookiecutter.project_name}}/
